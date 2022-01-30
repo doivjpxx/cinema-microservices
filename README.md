@@ -1,6 +1,6 @@
 # cinema microservices
 
-this projects contain:
+this project contains:
  - movies service
  - etc (upcoming...)
 ---
