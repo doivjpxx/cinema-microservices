@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/doivjpxx/cinema-microservices#readme",
   "dependencies": {
-    "body-parser": "^1.20.2",
+    "body-parser": "^1.20.3",
     "class-validator": "^0.13.2",
     "core": "file:../core",
     "dotenv": "^14.3.2",
